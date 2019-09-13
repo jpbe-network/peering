@@ -2,7 +2,11 @@
 
 Peering with FastEthernet (AS206479) is as simple as writing a configuration file.
 
-Just fork this repository, add yourself to the ```peers.yaml``` and create a pull request.
+Just fork this repository, add yourself to ```peers.yaml``` and create a pull request. Thats it!
+
+Now, when your pull request is accepted and merged, our system is going to configure your session with in an hour or so.
+The system setup a peering session for every exchange we have in common. So please keep your PeeringDB up-to-date as this is our datasource.
+In the meantime you could setup your side, so the session come up when the system is finished.
 
 ### Peering details ###
 
