@@ -1,6 +1,6 @@
 ## Peering Policy ##
 
-FastEthernet (AS206479) has nearly a open peering policy, but we do have policy to follow:
+FastEthernet (AS206479) has a nearly open peering policy, but we do have policy to follow:
 
  * If your IXP connection is NOT in PeeringDB, changes need to be handled manually
  * All peers' prefixes are filtered based on IRR.
