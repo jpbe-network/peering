@@ -1,3 +1,9 @@
+### How can i peer with you ? ###
+
+Peering with FastEthernet (AS206479) is as simple as writing a configuration file.
+
+Just fork this repository, add yourself to the ```peers.yaml``` and create a pull request.
+
 ### Peering details ###
 
 Up-to-date peering details you find on PeeringDB: https://as206479.peeringdb.net
