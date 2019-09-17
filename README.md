@@ -7,6 +7,27 @@ Just fork this repository, add yourself to ```peers.yaml``` and create a pull re
 Now, when your pull request is accepted and merged, our system (lovely called PeerBot) is going to configure your session within an hour or so. PeerBot sets up a session for every exchange we have in common. So when you remove a exchange from PeeringDB the session will be removed on the next run.
 In the meantime you could setup your side, so the session come up when the system is finished.
 
+### Can i peer only/except at ... ?
+
+Sure, you can. Just use ```only:``` or ```except:```. For eg.:
+
+```
+123456:
+  description: test
+  only:
+    - kleyrex
+```
+
+Following ixps are available to be used there:
+
+- kleyrex
+- locix
+- speedix
+- nlocix
+- decix_dus
+- decix_ham
+- decix_muc
+
 ### Peering details ###
 
 Up-to-date peering details you find on PeeringDB: https://as206479.peeringdb.net
