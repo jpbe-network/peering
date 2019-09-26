@@ -10,7 +10,7 @@ FastEthernet (AS206479) has a nearly open peering policy, but we do have some po
 
 We provision our peering configuration automatically from PeeringDB, please ensure that your entry is kept up-to-date including IP addresses and number of prefixes announced. We always add 10% of your PeeringDB number of prefixes announced on top. You will get at 80% of your configured limit a warning. If you exceeded the limit the session is going to shut down. The session will recover 5 minutes after you stop exceeding the limit.
 
-For all concerns just drop us a mail at ```noc@fastether.net```.
+For all concerns just drop us a mail at ```peerops@fastether.net```.
 
 ### How can i peer with you ? ###
 
@@ -44,7 +44,7 @@ Following ixps are available to be used there:
 
 ### Can we use MD5 ? ###
 
-Sure, we can. Just drop us a mail at ```noc@fastether.net``` with your ASN and your password. We will add this to our configuration. For the rest proceed as described above.
+Sure, we can. Just drop us a mail at ```peerops@fastether.net``` with your ASN and your password. We will add this to our configuration. For the rest proceed as described above.
 
 ### Peering details ###
 
