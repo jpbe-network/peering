@@ -42,15 +42,19 @@
 
 15169:
   description: Google
+  except:
+    - decix_ham
 
 13335:
   description: Cloudflare
+  only:
+    - kleyrex
 
 6939:
   description: HE
 
 8283:
-  description: ColoClue
+  description: Coloclue
 
 24961:
   description: myLoc managed IT AG
