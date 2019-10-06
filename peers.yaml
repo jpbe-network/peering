@@ -51,13 +51,15 @@
     - kleyrex
 
 6939:
-  description: HE
+  description: Hurricane Electric
 
 8283:
   description: Coloclue
 
 24961:
   description: myLoc managed IT AG
+  only:
+    - speedix
 
 198508:
   description: Plusine Systems B.V.
