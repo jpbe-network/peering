@@ -66,6 +66,8 @@
 
 34872:
   description: ServerPerso
+  only:
+    - speedix
 
 202365:
   description: Chronos
