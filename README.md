@@ -54,7 +54,7 @@ Up-to-date peering details you find on PeeringDB: https://as206479.peeringdb.net
 Name:  FastEthernet (by JPBE-Network)
 ASN:   AS206479
 Macro: AS-FASTETHERNET
-NOC:   noc@as206479.net
+NOC:   noc@fastether.net
 
 IXP:   DE-CIX Dusseldorf
 IPv4:  185.1.58.146
