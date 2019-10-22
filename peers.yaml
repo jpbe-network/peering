@@ -1,5 +1,7 @@
 204526:
   description: Rick Bakker
+  except:
+    - speedix
 
 206499:
   description: M & M Network
@@ -14,6 +16,8 @@
 
 202418:
   description: Hendrik George Koren
+  except:
+    - speedix
 
 205148:
   description: Lukasz Piotrowski
