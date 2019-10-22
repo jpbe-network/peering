@@ -3,6 +3,8 @@
 
 206499:
   description: M & M Network
+  except:
+    - nlocix
   
 13101:
   description: TNG Stadtnetz GmbH
@@ -71,6 +73,8 @@
 
 202365:
   description: Chronos
+  execpt:
+    - nlocix
 
 24940:
   description: Hetzner Online GmbH
