@@ -73,7 +73,7 @@
 
 202365:
   description: Chronos
-  execpt:
+  except:
     - nlocix
 
 24940:
