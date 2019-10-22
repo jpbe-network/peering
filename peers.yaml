@@ -70,11 +70,6 @@
 198508:
   description: Plusine Systems B.V.
 
-34872:
-  description: ServerPerso
-  only:
-    - speedix
-
 202365:
   description: Chronos
   except:
