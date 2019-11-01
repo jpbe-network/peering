@@ -53,8 +53,6 @@
 
 13335:
   description: Cloudflare
-  only:
-    - kleyrex
 
 6939:
   description: Hurricane Electric
