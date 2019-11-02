@@ -7,7 +7,7 @@
   description: M & M Network
   except:
     - nlocix
-  
+
 13101:
   description: TNG Stadtnetz GmbH
 
@@ -24,7 +24,7 @@
 
 25394:
   description: MK Netzdienste GmbH & Co. KG
- 
+
 57821:
   description: Nonattached Network
 
@@ -39,7 +39,7 @@
 
 200753:
   description: SnapServ Mathis
- 
+
 8403:
   description: Spotify
 
@@ -78,15 +78,15 @@
 
 197731:
   description: The Internet Engineering Group B.V.
-  
+
 199524:
   description: G-Core Labs SA
-  
+
 208840:
   description:  Port53 Anycast DNS
   only:
     - kleyrex
     - decix_dus
-    
+
 207968:
   description: rappet
