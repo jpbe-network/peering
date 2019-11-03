@@ -14,5 +14,6 @@
   shutdown: False
   # Notifies you about a newly configured session. Later also about a not established session
   notify: True
-  # Use a other email address then the peering address in PeeringDB. Can be comma-separated
-  notify_email: 
+  # Use a other email address then the peering address in PeeringDB.
+  notify_email:
+    - test@example.com
