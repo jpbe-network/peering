@@ -1,0 +1,18 @@
+# example peer with all variables
+1234:
+  # Short description of the ASN
+  description: Test Peer
+  only:
+    - decix_dus
+  except:
+    - kleyrex
+  # Disables IRR filtering, just with explanation at mr
+  no_irr_filtering: False
+  # Disables session limit, just with explanation at mr
+  no_limits: False
+  # Shuts all sessions. It does not decommision it
+  shutdown: False
+  # Notifies you about a newly configured session. Later also about a not established session
+  notify: True
+  # Use a other email address then the peering address in PeeringDB. Can be comma-separated
+  notify_email: 
