@@ -48,8 +48,6 @@
 
 15169:
   description: Google
-  except:
-    - decix_ham
 
 13335:
   description: Cloudflare
