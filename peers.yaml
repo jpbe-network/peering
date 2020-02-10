@@ -2,16 +2,21 @@
   description: Rick Bakker
   except:
     - speedix
+    - decix_dus
 
 206499:
   description: M & M Network
   except:
     - nlocix
+    - decix_dus
+    - decix_ham
+    - decix_muc
 
 13101:
   description: TNG Stadtnetz GmbH
   except:
     - decix_fra
+    - decix_ham
 
 25220:
   description: equada network GmbH
@@ -82,7 +87,10 @@
   description: Chronos
   except:
     - nlocix
-
+    - decix_dus
+    - decix_ham
+    - decix_muc
+    
 24940:
   description: Hetzner Online GmbH
   except:
@@ -100,7 +108,6 @@
   description:  Port53 Anycast DNS
   only:
     - kleyrex
-    - decix_dus
 
 207968:
   description: rappet
@@ -109,6 +116,9 @@
   description: Freifunk Frankfurt am Main e.V.
   except:
     - decix_fra
+    - decix_dus
+    - decix_ham
+    - decix_muc
 
 13030:
   description: Init7
