@@ -10,9 +10,13 @@
 
 13101:
   description: TNG Stadtnetz GmbH
+  except:
+    - decix_fra
 
 25220:
   description: equada network GmbH
+  except:
+    - decix_fra
 
 202418:
   description: Hendrik George Koren
@@ -24,6 +28,8 @@
 
 25394:
   description: MK Netzdienste GmbH & Co. KG
+  except:
+    - decix_fra
 
 57821:
   description: Nonattached Network
@@ -42,9 +48,13 @@
 
 8403:
   description: Spotify
+  except:
+    - decix_fra
 
 8075:
   description: Microsoft
+  execpt:
+    - decix_fra
 
 15169:
   description: Google
@@ -54,6 +64,8 @@
 
 6939:
   description: Hurricane Electric
+  except:
+    - decix_fra
 
 8283:
   description: Coloclue
@@ -73,12 +85,16 @@
 
 24940:
   description: Hetzner Online GmbH
+  except:
+    - decix_fra
 
 197731:
   description: The Internet Engineering Group B.V.
 
 199524:
   description: G-Core Labs SA
+  except:
+    - decix_fra
 
 208840:
   description:  Port53 Anycast DNS
@@ -91,9 +107,13 @@
 
 64475:
   description: Freifunk Frankfurt am Main e.V.
+  except:
+    - decix_fra
 
 13030:
   description: Init7
+  execpt:
+    - decix_fra
 
 51999:
   description: Whitehat One Ltd.
