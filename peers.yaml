@@ -53,7 +53,7 @@
 
 8075:
   description: Microsoft
-  execpt:
+  except:
     - decix_fra
 
 15169:
@@ -112,7 +112,7 @@
 
 13030:
   description: Init7
-  execpt:
+  except:
     - decix_fra
 
 51999:
