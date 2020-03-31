@@ -1,9 +1,3 @@
-204526:
-  description: Rick Bakker
-  except:
-    - speedix
-    - decix_dus
-
 206499:
   description: M & M Network
   except:
@@ -12,21 +6,10 @@
     - decix_ham
     - decix_muc
 
-13101:
-  description: TNG Stadtnetz GmbH
-  except:
-    - decix_fra
-    - decix_ham
-
 25220:
   description: equada network GmbH
   except:
     - decix_fra
-
-202418:
-  description: Hendrik George Koren
-  except:
-    - speedix
 
 205148:
   description: Lukasz Piotrowski
@@ -41,12 +24,6 @@
 
 199071:
   description: Prunk Network
-
-204571:
-  description: blocklink AG
-
-62078:
-  description: Patrick Velder
 
 200753:
   description: SnapServ Mathis
@@ -82,14 +59,6 @@
 
 198508:
   description: Plusine Systems B.V.
-
-202365:
-  description: Chronos
-  except:
-    - nlocix
-    - decix_dus
-    - decix_ham
-    - decix_muc
     
 24940:
   description: Hetzner Online GmbH
@@ -103,11 +72,6 @@
   description: G-Core Labs SA
   except:
     - decix_fra
-
-208840:
-  description:  Port53 Anycast DNS
-  only:
-    - kleyrex
 
 207968:
   description: rappet
