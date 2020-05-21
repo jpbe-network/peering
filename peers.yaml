@@ -85,11 +85,6 @@
   description: Init7
   except:
     - decix_fra
-
-51999:
-  description: Whitehat One Ltd.
-  only:
-    - decix_muc
   
 207491: 
   description: Max Pueschel
