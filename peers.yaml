@@ -32,8 +32,6 @@
 
 8075:
   description: Microsoft
-  except:
-    - decix_fra
 
 15169:
   description: Google
