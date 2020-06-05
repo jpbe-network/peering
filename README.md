@@ -36,8 +36,6 @@ Following ixps are available to be used there:
 
 - kleyrex
 - locix
-- speedix
-- nlocix
 - decix_dus
 - decix_ham
 - decix_muc
